@@ -53,7 +53,7 @@ require 'rubyjokes'
 joke = RubyJoke.new
 puts joke.get_joke({exclude: ['explicit']})
 ```
-One last thing: rubyjokes and Chuck Norris only accepts type specifications with a Hash
+One last thing: rubyjokes and Chuck Norris only accept type specifications with a Hash
 ```ruby
 require 'rubyjokes'
 
