@@ -53,10 +53,6 @@ require 'rubyjokes'
 joke = RubyJoke.new
 puts joke.get_joke({exclude: ['explicit']})
 ```
-#### Output
-```
-Chuck Norris doesn't have pubic hairs because hair doesn't grow on balls of steel.
-```
 One last thing: rubyjokes and Chuck Norris only accepts type specifications with a Hash
 ```ruby
 require 'rubyjokes'
