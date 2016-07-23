@@ -1,3 +1,5 @@
+#Created by Iyanu Adelekan
+
 class JokeDefinitions
   @@END_POINT = "http://api.icndb.com/jokes/random"
   
