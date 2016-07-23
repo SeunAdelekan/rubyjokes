@@ -1,3 +1,5 @@
+#Created by Iyanu Adelekan
+
 require 'rubygems'
 require 'unirest'
 require 'ruby-joke-definitions.rb'
