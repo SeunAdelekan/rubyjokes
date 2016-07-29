@@ -1,5 +1,8 @@
 # rubyjokes
+[![Gem Version](https://badge.fury.io/rb/rubyjokes.svg)](https://badge.fury.io/rb/rubyjokes)
+
 Ruby library that facilitates the seamless integration of jokes in ruby applications
+
 ## Description
 rubyjokes is a little ruby library that specialises in delivering bone-cracking jokes.
 rubyjokes is easy to integrate into your ruby applications plus installation is hassle free.
