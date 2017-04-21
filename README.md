@@ -1,5 +1,7 @@
-# rubyjokes
 [![Gem Version](https://badge.fury.io/rb/rubyjokes.svg)](https://badge.fury.io/rb/rubyjokes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+# rubyjokes
 
 Ruby library that facilitates the seamless integration of jokes in ruby applications
 
