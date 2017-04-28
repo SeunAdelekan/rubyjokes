@@ -1,4 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/rubyjokes.svg)](https://badge.fury.io/rb/rubyjokes)
+[![Code Climate](https://codeclimate.com/github/SeunAdelekan/rubyjokes/badges/gpa.svg)](https://codeclimate.com/github/SeunAdelekan/rubyjokes)
+[![Issue Count](https://codeclimate.com/github/SeunAdelekan/rubyjokes/badges/issue_count.svg)](https://codeclimate.com/github/SeunAdelekan/rubyjokes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # rubyjokes
